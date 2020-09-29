@@ -1,4 +1,4 @@
-# lodash
+# Jim's lodash
 
 [Site](https://lodash.com/) |
 [Docs](https://lodash.com/docs) |
